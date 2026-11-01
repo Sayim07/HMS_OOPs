@@ -1,0 +1,18 @@
+=====================================================
+               HOSPITAL BILLING INVOICE              
+=====================================================
+Patient ID     : PAT101
+Patient Name   : Rahul Verma
+Age / Gender   : 29 / Male
+Disease/Issue  : Chest Pain
+Blood Group    : B+
+Assigned Doctor: DOC101
+Admission Status: Admitted
+-----------------------------------------------------
+Room Type      : Deluxe
+Days Admitted  : 3 day(s) @ $120.00/day = $360.00
+Pharmacy/Meds  : $85.00
+Lab & Tests    : $150.00
+-----------------------------------------------------
+TOTAL AMOUNT   : $595.00
+=====================================================
